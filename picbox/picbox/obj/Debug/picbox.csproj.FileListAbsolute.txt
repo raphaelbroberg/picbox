@@ -1,0 +1,10 @@
+C:\Users\raphael.broberg\Desktop\tilpro\picbox\picbox\bin\Debug\picbox.exe.config
+C:\Users\raphael.broberg\Desktop\tilpro\picbox\picbox\bin\Debug\picbox.exe
+C:\Users\raphael.broberg\Desktop\tilpro\picbox\picbox\bin\Debug\picbox.pdb
+C:\Users\raphael.broberg\Desktop\tilpro\picbox\picbox\obj\Debug\picbox.csprojAssemblyReference.cache
+C:\Users\raphael.broberg\Desktop\tilpro\picbox\picbox\obj\Debug\picbox.Form1.resources
+C:\Users\raphael.broberg\Desktop\tilpro\picbox\picbox\obj\Debug\picbox.Properties.Resources.resources
+C:\Users\raphael.broberg\Desktop\tilpro\picbox\picbox\obj\Debug\picbox.csproj.GenerateResource.cache
+C:\Users\raphael.broberg\Desktop\tilpro\picbox\picbox\obj\Debug\picbox.csproj.CoreCompileInputs.cache
+C:\Users\raphael.broberg\Desktop\tilpro\picbox\picbox\obj\Debug\picbox.exe
+C:\Users\raphael.broberg\Desktop\tilpro\picbox\picbox\obj\Debug\picbox.pdb
